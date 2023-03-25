@@ -5,6 +5,8 @@ Funcionalidades
 Exibição de horas, minutos e segundos
 Formatação de hora em formato 12 horas ou 24 horas
 Adição de zeros à esquerda para horas, minutos e segundos menores que 10
+
+
 Tecnologias Utilizadas:
 - HTML
 - CSS
